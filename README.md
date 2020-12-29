@@ -1,6 +1,6 @@
  ### Vectors
  - it is an array-like data type that stores related items
- - one major difference between a vector and an array is that vectors are growable that means their you do append and deletion of items 
+ - one major difference between a vector and an array is that vectors are growable i.e capacity can change while array are of fixed sizes 
 
  - another difference is that vectors are stored in heap rather than stack cause they grow and shrink
 
